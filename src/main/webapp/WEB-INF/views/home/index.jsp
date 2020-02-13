@@ -11,6 +11,7 @@
     <script type="text/javascript" src="resources/js/vanilla.js"></script>
 </head>
 <body>
+<img src="resources/images/vanilla-js-1-1.png" height="100px" hight="50px">
 <h2 id="hello" class="hello-title">Hello ${name}!</h2>
 <script type="text/javascript" src="resources/js/main.js"></script>
 </body>
